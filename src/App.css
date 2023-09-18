@@ -101,7 +101,7 @@ nav{
 .LeftNav{
   display: flex;
   width: 35%;
-  justify-content: end;
+  justify-content:end;
   align-items: center;
 }
 .LeftNav h3{
